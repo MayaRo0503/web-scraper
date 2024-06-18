@@ -9,7 +9,6 @@ This project is a web scraper that extracts information about dog breeds from a 
 - [Project Structure](#project-structure)
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -138,8 +137,3 @@ const xlsx = require("xlsx");
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-```
