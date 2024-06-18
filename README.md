@@ -1,4 +1,3 @@
-```
 # Dog Breeds Scraper
 
 This project is a web scraper that extracts information about dog breeds from a specified website and exports the data to an Excel file.
