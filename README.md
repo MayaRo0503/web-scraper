@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/dog-breeds-scraper.git
+    git clone https://github.com/MayaRo0503/web-scraper.git
     cd dog-breeds-scraper
     ```
 
